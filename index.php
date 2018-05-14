@@ -6,8 +6,8 @@
 include('config.php');
 
 // template files
-include('header.php');
-include('main.php');
-include('footer.php');
+include('templates/header.php');
+include('templates/main.php');
+include('templates/footer.php');
 
 ?>
